@@ -7,7 +7,7 @@ class CashRegister
     @discount = discount 
   end 
  
-  def 
-    self.age += 1
+  def add_item
+    total
   end
 end 
