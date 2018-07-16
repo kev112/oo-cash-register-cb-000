@@ -6,7 +6,7 @@ class CashRegister
     @total  = total 
   end 
  
-  def birthday
+  def 
     self.age += 1
   end
 end
